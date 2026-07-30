@@ -344,4 +344,4 @@ function constantEvents () {
     cssSet(tasks.length === 0);
   });
 }
-constantEvents ();
+constantEvents();
