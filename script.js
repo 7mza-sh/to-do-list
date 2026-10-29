@@ -146,7 +146,6 @@ function updateSeenData () {
   tasksCounter.textContent = tasksCounterVariable;
   taskTitleInput.value = '';
   taskContentInput.value = '';
-  localStorageDataSet();
 }
 
 // دالة إتمام المهمة أو إلغاء إتمامها
